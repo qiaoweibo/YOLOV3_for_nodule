@@ -1,0 +1,21 @@
+<annotation>
+	<folder>VOC</folder>
+	<filename>0046.png</filename>
+	<size>
+		<width>312</width>
+		<height>312</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>nodule</name>
+	<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+	<bndbox>
+			<xmin>235</xmin>
+			<ymin>224</ymin>
+			<xmax>241</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

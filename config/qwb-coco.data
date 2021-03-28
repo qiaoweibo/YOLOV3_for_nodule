@@ -1,0 +1,7 @@
+classes= 1
+train=/home/weidu/qwb/PyTorch-YOLOv3-master/_train.txt
+valid=/home/weidu/qwb/PyTorch-YOLOv3-master/val.txt
+test=/home/weidu/qwb/PyTorch-YOLOv3-master/test.txt
+names=data/coco.names
+backup=backup/
+eval=coco
